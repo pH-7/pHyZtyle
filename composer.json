@@ -1,7 +1,7 @@
 {
     "name": "ph-7/pHyZtyle",
     "description": "Simple, fast and great template engine with nice and cool syntaxes",
-    "keywords": ["template, template engine, pHTpl, tpl, pHyZtyle"],
+    "keywords": ["template", "template engine", "pHTpl", "tpl", "pHyZtyle"],
     "type": "library",
     "homepage": "http://ph7.me",
     "license": "GPL-3.0+",
